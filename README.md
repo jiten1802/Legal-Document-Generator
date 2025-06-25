@@ -51,7 +51,7 @@ pip install -r requirements.txt
 3. Run the notebook:
 jupyter notebook legal-document-generation.ipynb
 
-4. Future Work
+ ## Future Work
 - Integrate GPT-powered chat interface for real-time drafting
 - Add multi-language support
 
